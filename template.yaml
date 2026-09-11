@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://v3.wails.io/schemas/template.v3.json
+name: Vue TS + Vite
+shortname: "Vue"
+author: Fabián Rojas
+description: Vue + Vite updated setup
+helpurl: ""
+version: v1.0.0
+wailsVersion: 3
+typescript: true
